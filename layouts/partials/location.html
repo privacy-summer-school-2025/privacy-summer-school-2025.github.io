@@ -1,0 +1,18 @@
+<h2 class="section-title">{{ .titles.location }}</h2>
+<p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+  <a href="{{ .GoogleMapsLink }}" target="_blank">
+    {{ .venue}}
+  </a>
+  <br>
+  {{ .address}}<br>
+  {{ .city}}
+  
+</p>
+
+
+<!-- <div id="map-canvas" class="location-area" data-address="{{ .address }}, {{ .city }} - {{ .state }}"></div> -->
+ <div class="map-static">
+  <a href="{{ .GoogleMapsLink }}" target="_blank">
+    <img src="/img/maps.png" alt="Map" style="width:100%;max-width:600px;display:block;margin:0 auto;" />
+  </a>
+</div>

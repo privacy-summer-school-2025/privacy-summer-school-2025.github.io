@@ -1,0 +1,21 @@
+# Hugo
+/public/
+/resources/_gen/
+/hugo_stats.json
+.hugo_build.lock
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+
+# IDE/editor
+.vscode/
+.idea/

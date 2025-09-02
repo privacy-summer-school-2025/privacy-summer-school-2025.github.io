@@ -1,0 +1,113 @@
+baseurl: "https://privacy-summer-school-2025.github.io/"
+title: "UNSW Privacy Summer School 2025"
+canonifyurls: true
+theme: "hugo-conference"
+
+# GoogleAnalytics: ""
+
+params:
+  # Conference info
+  Name: "Privacy Summer School 2025"
+  Description: "Summer School on Privacy @ UNSW Sydney"
+  Date: "November 10-14"
+  # Price: "Free – Subject to Registration" # If your event is free, just comment this line
+  Venue: "School of Computer Science and Engineering"
+  Address: "Engineering Rd, UNSW Sydney"
+  GoogleMapsLink: "https://maps.app.goo.gl/iA15Nb5pMfmCPKaL7"
+  City:  "Kensington NSW 2031"
+  # Images: ["/img/privacy_koala.jpg"]
+  # GoogleMapsKey: "my-secret-maps-key"
+
+  # Active sections on the website to deactivate comment out with '#'
+  # you can also change order here and it will reflect on page
+  Sections:
+    - about
+    - location
+    - stipends
+    - organisers
+    - speakers
+    - schedule
+    - sponsors
+    # - partners
+    - contact
+
+  # Titles which you can translate to other languages
+  Titles:
+    about: "About"
+    location: "Location"
+    stipends: "Stipends"
+    organisers: "Organisers"
+    speakers: "Speakers"
+    schedule: "Schedule"
+    sponsors: "Sponsors"
+    partners: "Partners"
+    contact: "Contact"
+
+  Links:
+    Registration:
+      text: "TBD"
+      url: "#"
+    Application:
+      text: "TBD"
+      url: "#"
+    Recommender:
+      text: "TBD"
+      url: "#"
+
+  # The Call To Action button at the header,
+  # If you don't want this, just remove the callToAction property.
+  CallToAction:
+    text: "Registration opens soon!"
+    link: "#"
+
+  # Fork me on GitHub, if you don't want this, just remove the forkButton property
+  # ForkButton:
+  #   repository: "https://github.com/jweslley/hugo-conference/"
+
+  # List of Sponsors
+  Sponsors:
+    - name: "Placeholder"
+      logo: "img/privacy_koala.png"
+      url: ""
+
+  # List of Partners
+  Partners:
+    - name: "Hugo"
+      logo: "/img/hugo.jpg"
+      url: "https://gohugo.io"
+    - name: "BrazilJS"
+      logo: "/img/partner.png"
+      url: "http://braziljs.org"
+
+  # Speakers
+  Speakers:
+    - name: "The Privacy Guy"
+      photo: "/img/privacy_koala.png"
+      bio: "Encrypt your E-Mails"
+      company: "UNSW Sydney"
+      link:
+        href: "https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering"
+        text: "@cse"
+
+  # The entire schedule
+  Schedule:
+    - name: "Check-in / Breakfast"
+      time: "9h00"
+
+    - name: "Linus Torvalds"
+      photo: "/img/speaker.jpg"
+      bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
+      company: "Linux Foundation"
+      link:
+        href: "http://twitter.com/linus"
+        text: "@linus"
+      presentation:
+        title: "Digging into a Linux Kernel"
+        description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
+        time: "10h00"
+
+    - name: "Linus Torvalds"
+      presentation:
+        title: "Introducing Windows 12"
+        description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
+        time: "11h00"

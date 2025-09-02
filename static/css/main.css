@@ -310,13 +310,13 @@ p {
   line-height: 1.6em;
   margin-bottom: 1em;
 }
-.content ul.marked,
-.content ol.marked,
-.content ul.unmarked,
-.content ol.unmarked {
+ul.marked,
+ol.marked,
+ul.unmarked,
+ol.unmarked {
   font-size: 1.6em;
   line-height: 1.6em;
-  margin-bottom: 1.4em;
+  /* margin-bottom: 1em; */
   
 }
 .marked li {
@@ -643,6 +643,14 @@ nav {
   p {
     font-size: 1.4em;
   }
+ul.marked,
+ol.marked,
+ul.unmarked,
+ol.unmarked {
+  font-size: 1.4em;
+  
+}
+
   /* content */
   .content {
     padding: 0;

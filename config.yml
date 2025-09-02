@@ -5,6 +5,10 @@ theme: "hugo-conference"
 
 # GoogleAnalytics: ""
 
+caches:
+  images:
+    dir: :cacheDir/images
+
 params:
   # Conference info
   Name: "Privacy Summer School 2025"

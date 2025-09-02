@@ -28,9 +28,9 @@ params:
     - about
     - location
     - stipends
-    - organisers
     - speakers
     - schedule
+    - organisers
     - sponsors
     # - partners
     - contact

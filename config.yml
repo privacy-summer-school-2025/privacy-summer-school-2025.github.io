@@ -50,20 +50,20 @@ params:
 
   Links:
     Registration:
-      text: "TBD"
-      url: "#"
+      text: "Registration Form"
+      url: "https://forms.cloud.microsoft/r/0wGJg7YY4i"
     Application:
-      text: "TBD"
-      url: "#"
+      text: "Stipend Application Form"
+      url: "https://forms.cloud.microsoft/r/jHHPJ9NW9c"
     Recommender:
-      text: "TBD"
-      url: "#"
+      text: "Referral Form"
+      url: "https://forms.cloud.microsoft/r/jxETSt0FsV"
 
   # The Call To Action button at the header,
   # If you don't want this, just remove the callToAction property.
   CallToAction:
-    text: "Registration opens soon!"
-    link: "#"
+    text: "Register Now!"
+    link: "https://forms.cloud.microsoft/r/0wGJg7YY4i"
 
   # Fork me on GitHub, if you don't want this, just remove the forkButton property
   # ForkButton:

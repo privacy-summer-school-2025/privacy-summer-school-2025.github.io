@@ -86,13 +86,34 @@ params:
 
   # Speakers
   Speakers:
-    - name: "The Privacy Guy"
+    - name: "Daniel Slamanig"
       photo: "/img/privacy_koala.png"
-      bio: "Encrypt your E-Mails"
-      company: "UNSW Sydney"
+      bio: ""
+      company: "Universität der Bundeswehr München"
       link:
-        href: "https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering"
-        text: "@cse"
+        href: "https://danielslamanig.info/"
+        text: "Website"
+    - name: "Nishanth Chandran"
+      photo: "/img/privacy_koala.png"
+      bio: ""
+      company: "Microsoft Research"
+      link:
+        href: "https://www.microsoft.com/en-us/research/people/nichandr/"
+        text: "Website"
+    - name: "Sanchari Das"
+      photo: "/img/privacy_koala.png"
+      bio: ""
+      company: "George Mason University (IST)"
+      link:
+        href: "https://www.drsancharidas.com/"
+        text: "Website"
+    - name: "Thorsten Strufe"
+      photo: "/img/privacy_koala.png"
+      bio: ""
+      company: "Karlsruhe Institute of Technology (KIT)"
+      link:
+        href: "https://ps.tm.kit.edu/members_101.php"
+        text: "Website"
 
   # The entire schedule
   Schedule:

@@ -93,6 +93,13 @@ params:
       link:
         href: "https://danielslamanig.info/"
         text: "Website"
+    - name: "Natasha Fernandes"
+      photo: "/img/privacy_koala.png"
+      bio: ""
+      company: "Macquarie University"
+      link:
+        href: "https://tashfernandes.github.io/"
+        text: "Website"
     - name: "Nishanth Chandran"
       photo: "/img/privacy_koala.png"
       bio: ""

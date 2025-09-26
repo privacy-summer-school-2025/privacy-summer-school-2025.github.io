@@ -87,8 +87,8 @@ params:
   # Speakers
   Speakers:
     - name: "Daniel Slamanig"
-      photo: "/img/privacy_koala.png"
-      bio: ""
+      photo: "/img/daniel-slamanig.jpg"
+      bio: "Daniel Slamanig is Full Professor of Cryptology at the Universität der Bundeswehr München (UniBw M), Department of Computer Science, and the Research Institute Cyber Defense (CODE), where he leads the Quantum Safe & Advanced Cryptography (QuSAC) Lab. He received his PhD in Computer Science from the University of Klagenfurt in 2011. Before joining UniBw M in 2023, he was a Senior Scientist in the cryptography research group at the AIT Austrian Institute of Technology (2017–2023), a lecturer at the Vienna University of Technology (2018–2020), and a PostDoc and later Senior Researcher at the Institute of Information Security (formerly IAIK) at Graz University of Technology (2012–2017). His research interests span the foundations and applications of cryptography, with a particular focus on provably secure public-key cryptographic primitives and privacy-preserving cryptographic mechanisms. He is a member of the International Association for Cryptologic Research (IACR) and the Association for Computing Machinery (ACM)."
       company: "Universität der Bundeswehr München"
       link:
         href: "https://danielslamanig.info/"
@@ -101,8 +101,8 @@ params:
         href: "https://tashfernandes.github.io/"
         text: "Website"
     - name: "Nishanth Chandran"
-      photo: "/img/privacy_koala.png"
-      bio: ""
+      photo: "/img/nishanth.jpg"
+      bio: "Nishanth Chandran is a Senior Principal Researcher at Microsoft Research India. His research interests are in problems related to cryptography, secure computation, and AI security. Prior to joining MSRI, Nishanth was a Researcher at AT&T Labs, and before that he was a Post-doctoral Researcher at MSR Redmond. Nishanth is a recipient of the 2010 Chorafas Award for exceptional achievements in research and his research has received coverage in science journals and in the media at venues such as Nature and MIT Technology Review. He has published several papers in top computer science conferences and journals such as Crypto, Eurocrypt, IEEE S&P, CCS, STOC, FOCS, SIAM Journal of Computing, Journal of the ACM, and so on. His work on position-based cryptography was selected as one of the top 3 works and invited to QIP 2011 as a plenary talk. Nishanth has served on the technical program committee of many of the top cryptography conferences on several occasions and he holds several US Patents. Nishanth received his Ph.D. in Computer Science from UCLA, M.S. in Computer Science from UCLA, and B.E. in Computer Science and Engineering from Anna University. Nishanth is also a top ranking (A grade) All India Radio South Indian Classical (Carnatic) Violinist and has performed at international venues such as the Hollywood Bowl, Los Angeles (as part of legendary sitarist Late Pandit Ravi Shankar’s ensemble) and the Madras Music Academy, Chennai."
       company: "Microsoft Research"
       link:
         href: "https://www.microsoft.com/en-us/research/people/nichandr/"

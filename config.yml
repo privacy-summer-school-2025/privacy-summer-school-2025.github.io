@@ -121,6 +121,13 @@ params:
       link:
         href: "https://ps.tm.kit.edu/members_101.php"
         text: "Website"
+    - name: "Vanessa Teague"
+      photo: "/img/vanessa-teague.png"
+      bio: "Vanessa Teague's research focuses on election security and verification. In 2023 she received the IEEE Cybersecurity Award for Practice (with Stark, Blom and Lindeman) for her work on Risk Limiting Audits for preferential elections, which will now run in election audits in the State of Colorado. She has also made significant contributions to the security of elections in Switzerland and Australia, having identified a series of serious problems in the cryptography of the Swiss and iVote Internet voting systems, which (at least in the Swiss case) were corrected as a result of the discovery. Her team at the university of Melbourne demonstrated re-identification of public Medicare-PBS data, which led to significant changes in Australian government data sharing. Her research work focuses on cryptographic analysis that has important implications for matters of public interest, particularly elections but also data privacy and other related topics. Her current main focus is Democracy Developers, which she founded in 2022 to translate these ideas into open-source software supporting Australian democracy."
+      company: "Thinking Cybersecurity / The Australian National University"
+      link:
+        href: "https://www.thinkingcybersecurity.com/"
+        text: "Website"
 
   # The entire schedule
   Schedule:

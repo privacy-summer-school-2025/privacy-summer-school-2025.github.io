@@ -93,6 +93,13 @@ params:
       link:
         href: "https://danielslamanig.info/"
         text: "Website"
+    - name: "Ming Ding"
+      photo: "/img/ming.jpg"
+      bio: "Ming Ding (IEEE M'12-SM'17) received the B.S. (with first-class Hons.) and M.S. degrees in electronics engineering from Shanghai Jiao Tong University (SJTU), China, and the Doctor of Philosophy (Ph.D.) degree in signal and information processing from SJTU, in 2004, 2007, and 2011, respectively. From April 2007 to September 2014, he worked at Sharp Laboratories of China as a Researcher/Senior Researcher/Principal Researcher. Currently, he is the Group Leader of the Privacy Technology Group at CSIRO's Data61 in Sydney, NSW, Australia. Also, he is an Adjunct Professor at Swinburne University of Technology and University of Technology Sydney, Australia. His research interests include data privacy and security, machine learning and AI, and information technology. He has co-authored more than 300 papers in IEEE/ACM journals and conferences, all in recognized venues, and around 20 3GPP standardization contributions, as well as two books, i.e., “Multi-point Cooperative Communication Systems: Theory and Applications” (Springer, 2013) and “Fundamentals of Ultra-Dense Wireless Networks” (Cambridge University Press, 2022). Also, he holds 21 US patents and has co-invented another 100+ patents on 4G/5G technologies. Currently, he is an editor of IEEE Communications Surveys and Tutorials and IEEE Transactions on Network Science and Engineering. Besides, he has served as a guest editor/co-chair/co-tutor/TPC member for multiple IEEE top-tier journals/conferences and received several awards for his research work and professional services, including the prestigious IEEE Signal Processing Society Best Paper Award in 2022 and Highly Cited Researcher recognized by Clarivate Analytics in 2024."
+      company: "CSIRO's Data61"
+      link:
+        href: "https://people.csiro.au/D/M/Ming-Ding"
+        text: "Website"
     - name: "Natasha Fernandes"
       photo: "/img/privacy_koala.png"
       bio: ""

@@ -122,8 +122,12 @@ params:
         href: "https://www.drsancharidas.com/"
         text: "Website"
     - name: "Thorsten Strufe"
-      photo: "/img/privacy_koala.png"
-      bio: ""
+      photo: "/img/thorsten.jpg"
+      bio: "Thorsten Strufe is Professor of IT Security at Karlsruhe Institute of Technology (KIT), adjunct professor at TU Dresden, and an internationally recognized expert in privacy, security, and large-scale distributed systems. He serves as Deputy Speaker of the Cluster of Excellence CeTI (Centre for Tactile Internet with Human-in-the-Loop) and is a principal investigator in major research initiatives including the German Competence Center for IT Security KASTEL. His research focuses on enhancing privacy and resilience in social networks and distributed systems, with a special interest in privacy-preserving, decentralized technologies that challenge the dominant data-collection models of today's digital platforms.
+      </p><p>
+      With over a decade of leadership in collaborative research, he has contributed to numerous national and international projects funded by the EU, German Research Foundation, and other agencies. His work spans interdisciplinary collaborations at the intersection of technology, ethics, and society, with projects addressing topics from secure communication and anonymous networking to user behavior and data protection in online environments.
+      </p><p>
+      He has authored and co-authored numerous publications in leading journals and conferences, and his research has been recognized with several best paper awards. Before joining KIT, he held academic positions at TU Dresden, TU Darmstadt, University of Mannheim, and EURECOM, shaping research and teaching in privacy and network security across Europe. He actively engages in global academic communities, fostering international partnerships and dialogue on building secure and trustworthy digital infrastructures."
       company: "Karlsruhe Institute of Technology (KIT)"
       link:
         href: "https://ps.tm.kit.edu/members_101.php"

@@ -121,6 +121,17 @@ params:
       link:
         href: "https://www.drsancharidas.com/"
         text: "Website"
+    - name: "Suranga Seneviratne"
+      photo: "/img/suranga.jpg"
+      bio: "Dr. Suranga Seneviratne is a Senior Lecturer and the Director of the Networked Systems and Security (NSS) Lab in the School of Computer Science at the University of Sydney. He received his PhD in Electrical Engineering from the University of New South Wales in 2015 and his Bachelor’s degree in Electronic and Telecommunication Engineering from the University of Moratuwa in 2005.
+      </p><p>
+      His research interests span computer networks, network security, and the application of artificial intelligence in security. He has authored and co-authored over 75 peer-reviewed conference and journal papers, including publications in top-tier venues such as WWW, TMLR, CVPR, MobiSys, and TMC.
+      </p><p>
+      Dr. Seneviratne has an extensive track record of leading industry- and government-funded research projects, supported by organisations such as the Australian Research Council (ARC), Google, the Defence Science and Technology Group (DSTG), the Department of Defence (DoD), the Office of National Intelligence (ONI), and Axiata Digital Labs. Since joining the University of Sydney in 2017, he has secured over $5 million in external research funding, including approximately $2.2 million in the past two years."
+      company: "The University of New South Wales"
+      link:
+        href: "https://www.suranga.me/"
+        text: "Website"
     - name: "Thorsten Strufe"
       photo: "/img/thorsten.jpg"
       bio: "Thorsten Strufe is Professor of IT Security at Karlsruhe Institute of Technology (KIT), adjunct professor at TU Dresden, and an internationally recognized expert in privacy, security, and large-scale distributed systems. He serves as Deputy Speaker of the Cluster of Excellence CeTI (Centre for Tactile Internet with Human-in-the-Loop) and is a principal investigator in major research initiatives including the German Competence Center for IT Security KASTEL. His research focuses on enhancing privacy and resilience in social networks and distributed systems, with a special interest in privacy-preserving, decentralized technologies that challenge the dominant data-collection models of today's digital platforms.
@@ -131,6 +142,13 @@ params:
       company: "Karlsruhe Institute of Technology (KIT)"
       link:
         href: "https://ps.tm.kit.edu/members_101.php"
+        text: "Website"
+    - name: "Qiang Tang"
+      photo: "/img/qiang.JPG"
+      bio: "Qiang Tang  is currently an Associate Professor in the School of Computer Science at the University of Sydney. From 2016-2020, he was an Assistant Professor at New Jersey Institute of Technology, and Director of the JACOBI Blockchain Lab. Before that, he was a postdoc at Cornell. His research spans broadly on applied cryptography and blockchain with works mostly appears in flagship security/crypto/distributed computing venues, including CRYPTO/EUROCRYPT/ASIACRYPT, CCS/SP/USENIX Sec/NDSS and PODC etc. He won a few awards including the SOAR Prize,  MIT TR35, best paper awards (e.g., DSN25, ICDCS24, ASIACRYPT16) and research awards from Google, Oracle and multiple top blockchain foundations. He served as Program Co-Chair of PKC 2024."
+      company: "The University of Sydney"
+      link:
+        href: "https://alkistang.github.io/"
         text: "Website"
     - name: "Vanessa Teague"
       photo: "/img/vanessa-teague.png"

@@ -101,8 +101,10 @@ params:
         href: "https://people.csiro.au/D/M/Ming-Ding"
         text: "Website"
     - name: "Natasha Fernandes"
-      photo: "/img/privacy_koala.png"
-      bio: ""
+      photo: "/img/natasha.jpg"
+      bio: "Natasha is a lecturer in Cybersecurity with special interests in privacy-preserving technologies and mathematical techniques for analysing information leaks in secure systems. She holds an undergraduate degree in Pure Mathematics and Computer Science from the University of Sydney, and a PhD in Computing from Macquarie University and École Polytechnique in France. Natasha has also worked extensively in industry as a software engineer specialising in backend web applications.
+      Natasha's research interests are in the mathematical foundations of data privacy, particularly involving differential privacy, natural language processing or machine learning. Her work involves probabilistic reasoning using quantitative information flow techniques which derive from information-theoretic principles.
+      Natasha's research aims at developing mathematical principles to support the analysis of privacy-preserving systems, as well as the development of software tools to support the application of these mathematical techniques in practical engineering scenarios."
       company: "Macquarie University"
       link:
         href: "https://tashfernandes.github.io/"

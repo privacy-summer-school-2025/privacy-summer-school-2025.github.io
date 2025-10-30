@@ -117,8 +117,13 @@ params:
         href: "https://www.microsoft.com/en-us/research/people/nichandr/"
         text: "Website"
     - name: "Sanchari Das"
-      photo: "/img/privacy_koala.png"
-      bio: ""
+      photo: "/img/sanchari.jpeg"
+      bio: "Dr. Sanchari Das is a tenure-track Assistant Professor in the Department of Information Sciences and Technology at George Mason University (GMU), where she directs the Data Agency & Security (DAS) Lab and the Secure Realities Lab. The labs focus on human-centered, adaptive privacy and security in AI systems for critical socio-technical environments.
+      </p><p>
+      Her group's publications and collaborations appear in top venues across privacy, security, and trustworthy AI, and she has mentored 30+ students who have gone on to impactful careers. Her work has been presented at CHI, ASSETS, USENIX, NDSS, IEEE S&P, RSA, Black Hat, and Financial Cryptography, earning best-paper recognitions at CSCW, ICISSP, and IoTDI. She has secured funding support from the National Science Foundation (NSF), Google, Meta (Facebook), Cisco, and others including $1.9M+ in research funding.
+      </p><p>
+      Before joining GMU, Dr. Das was an Assistant Professor at the University of Denver, where she received the Distinguished Faculty Award and the Provost's Award for Excellence in Academic Advising. She holds a Ph.D. from Indiana University Bloomington and brings industry experience from American Express, Parity Technologies, and HCL.
+      "
       company: "George Mason University (IST)"
       link:
         href: "https://www.drsancharidas.com/"

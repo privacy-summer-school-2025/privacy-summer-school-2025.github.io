@@ -402,6 +402,12 @@ nav {
 /* =============================================================================
    SPEAKER
    ========================================================================== */
+.speaker-anchor {
+  display: block;
+  position: relative;
+  top: -90px;
+  visibility: hidden;
+}
 .speakers-item {
   position: relative;
   min-height: 180px;

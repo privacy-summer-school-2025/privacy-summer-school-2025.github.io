@@ -2,7 +2,8 @@
 
 <ul class="speakers-list">
 {{ range $speaker := .Speakers }}
-  <li class="speakers-item" itemprop="performer" itemscope itemtype="http://schema.org/Person" id="{{ .name | urlize }}">
+  <li class="speakers-item" itemprop="performer" itemscope itemtype="http://schema.org/Person">
+    <span id="{{ .name | urlize }}" class="speaker-anchor"></span>
     {{ with .photo }}
       <span class="speaker-photo">
         <img class="photo" src="{{ . }}" alt="{{ $speaker.name }}" itemprop="image">

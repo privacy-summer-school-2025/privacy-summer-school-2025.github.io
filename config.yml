@@ -169,20 +169,24 @@ params:
 
   # The entire schedule
   Schedule:
-    - name: "Natasha Fernandes"
-      photo: "/img/natasha.jpg"
-      presentation:
-        title: "Introduction to Differential Privacy"
-        description: "Differential privacy (DP) offers a mathematically rigorous framework that is the gold standard for privacy in the current literature - but what is it and how does is work? 
-        <p></p>
-        This talk introduces the core principles of differential privacy, including its mathematical properties and some key DP mechanisms. We will look at some common applications of differential privacy and examples of privacy analyses used to prove DP properties. Finally, we will discuss the privacy-utility trade-off and touch on some open questions in the community."
-        time: "TBD"
-    - name: "Natasha Fernandes"
-      photo: "/img/natasha.jpg"
-      presentation:
-        title: "Attack Models for Differential Privacy"
-        description: "Differential privacy (DP) is often regarded as a powerful privacy definition due to its strong attacker model and independence from prior knowledge. In this talk I will introduce some techniques for attack modelling and discuss how DP’s attacker model sits in the landscape of these attacks. We will model other attackers and discuss how DP defences stack up against these. Finally, we will discuss strengths and weaknesses of the DP attack model, and identify gaps in the literature regarding privacy attacks."
-        time: "TBD"
+    - day: "Monday, November 10"
+      slots:
+        - name: "Natasha Fernandes"
+          photo: "/img/natasha.jpg"
+          presentation:
+            title: "Introduction to Differential Privacy"
+            description: "Differential privacy (DP) offers a mathematically rigorous framework that is the gold standard for privacy in the current literature - but what is it and how does is work? 
+            <p></p>
+            This talk introduces the core principles of differential privacy, including its mathematical properties and some key DP mechanisms. We will look at some common applications of differential privacy and examples of privacy analyses used to prove DP properties. Finally, we will discuss the privacy-utility trade-off and touch on some open questions in the community."
+            time: "01:30 PM - 02:30 PM"
+    - day: "Thursday, November 13"
+      slots:
+        - name: "Natasha Fernandes"
+          photo: "/img/natasha.jpg"
+          presentation:
+            title: "Attack Models for Differential Privacy"
+            description: "Differential privacy (DP) is often regarded as a powerful privacy definition due to its strong attacker model and independence from prior knowledge. In this talk I will introduce some techniques for attack modelling and discuss how DP's attacker model sits in the landscape of these attacks. We will model other attackers and discuss how DP defences stack up against these. Finally, we will discuss strengths and weaknesses of the DP attack model, and identify gaps in the literature regarding privacy attacks."
+            time: "01:30 PM - 02:30 PM"
 
 
 

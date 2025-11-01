@@ -27,7 +27,7 @@
 
               {{ .presentation.title }}
               <!-- <span class="speakers-company">{{ .company }}</span> -->
-               <span class="speakers-company">{{ .name }}</span>
+               <span class="speakers-company"><a href="#{{ .name | urlize }}">{{ .name }}</a></span>
             </td>
             <td class="schedule-description">{{ .presentation.description | safeHTML}}</td>
           </tr>

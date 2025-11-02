@@ -271,7 +271,7 @@ params:
             time: "13:30 – 14:30"
         - presentation:
             title: "Social Event "
-            description: "Bondi to Coogee Coastal Walk and Dinner"
+            description: "Bondi to Coogee Coastal Walk and Dinner."
             time: "14:30 – 19:00"
     - day: "Thursday, November 13"
       slots:
@@ -307,7 +307,7 @@ params:
             time: "14:30 – 15:00"
         - presentation:
             title: "Group Discussion"
-            description: "TBD"
+            description: "Interactive discussion in topic-specific breakout groups."
             time: "15:00 – 16:30"
     - day: "Friday, November 14"
       slots:
@@ -333,15 +333,15 @@ params:
             time: "12:30 – 13:30"
         - presentation:
             title: "Presentations of Group Discussion Outcomes"
-            description: "TBD"
+            description: "Each group presents key insights from their discussions."
             time: "13:30 – 14:30"
         - presentation:
             title: "Coffee Break"
             description: ""
             time: "14:30 – 15:00"
         - presentation:
-            title: "Group Discussion"
-            description: "TBD"
+            title: "Event Closing"
+            description: ""
             time: "15:00 – 16:30"
 
 

@@ -455,7 +455,7 @@ nav {
   padding: 20px 30px;
   font-size: 1.4em;
   line-height: 1.4em;
-  text-align: center;
+  text-align: left;
 }
 .schedule-tbl th {
   padding: 5px 30px;
@@ -476,10 +476,10 @@ nav {
   text-align: center;
   width: 100px;
 }
-.schedule-slot {
+.schedule-tbl .schedule-slot {
+  text-align: center;
   width: 200px;
   font-size: 16px;
-  text-align: center;
 }
 .speakers-company {
   display: block;
@@ -595,6 +595,7 @@ nav {
   }
   .schedule-tbl td.schedule-description {
     font-size: 12px;
+    text-align: left;
   }
   /* partners */
   .sponsor-item,
@@ -699,9 +700,10 @@ ol.unmarked {
     font-size: 4em;
     margin-bottom: .4em;
   }
-  /* .schedule-tbl .schedule-description {
-    display: none;
-  } */
+  .schedule-tbl .schedule-description {
+    /* display: none; */
+    text-align: left;
+  }
   .schedule-tbl .schedule-slot {
     width: auto;
   }

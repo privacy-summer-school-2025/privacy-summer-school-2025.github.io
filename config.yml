@@ -176,7 +176,7 @@ params:
           presentation:
             title: "Privacy Foundations"
             description: "TBD"
-            time: "09:45 – 11:00"
+            time: "9:30 – 11:00"
         - presentation:
             title: "Coffee Break"
             description: ""
@@ -188,7 +188,7 @@ params:
             description: "Cryptography offers important theoretical foundations for achieving privacy in the digital world. This talk provides an overview of the main cryptographic tools that enable computation and communication without revealing sensitive data, including secure multi-party computation, homomorphic encryption, and zero-knowledge proofs. We will see how these primitives allow data and computations to be verified and shared securely while preserving both confidentiality and authenticity, illustrated through examples. Finally, the talk highlights recent advances and open challenges in making these privacy-preserving techniques practical and scalable."
             time: "11:15 – 12:30"
         - presentation:
-            title: "Lunch Break"
+            title: "Lunch"
             description: ""
             time: "12:30 – 13:30"
         - name: "Natasha Fernandes"
@@ -210,29 +210,97 @@ params:
     - day: "Tuesday, November 11"
       slots:
         - presentation:
-            title: "TBD"
+            title: "Tutorial"
             description: "TBD"
-            time: "TBD"
+            time: "9:30 – 11:00"
+        - presentation:
+            title: "Coffee Break"
+            description: ""
+            time: "11:00 – 11:15"
+        - presentation:
+            title: "Talk"
+            description: "TBD"
+            time: "11:15 – 12:30"
+        - presentation:
+            title: "Lunch"
+            description: ""
+            time: "12:30 – 13:30"
+        - presentation:
+            title: "Talk"
+            description: "TBD"
+            time: "13:30 – 14:30"
+        - presentation:
+            title: "Coffee Break"
+            description: ""
+            time: "14:30 – 15:00"
+        - presentation:
+            title: "Group Discussion"
+            description: "TBD"
+            time: "15:00 – 16:30"
     - day: "Wednesday, November 12"
       slots:
         - presentation:
-            title: "TBD"
+            title: "Tutorial"
             description: "TBD"
-            time: "TBD"
+            time: "9:30 – 11:00"
+        - presentation:
+            title: "Coffee Break"
+            description: ""
+            time: "11:00 – 11:15"
+        - presentation:
+            title: "Talk"
+            description: "TBD"
+            time: "11:15 – 12:30"
+        - presentation:
+            title: "Lunch"
+            description: ""
+            time: "12:30 – 1:30 pm"
+        - presentation:
+            title: "Talk"
+            description: "TBD"
+            time: "13:30 – 14:30"
+        - presentation:
+            title: "Coffee Break"
+            description: ""
+            time: "14:30 – 15:00"
+        - presentation:
+            title: "Group Discussion"
+            description: "TBD"
+            time: "15:00 – 16:30"
     - day: "Thursday, November 13"
       slots:
+        - presentation:
+            title: "Tutorial"
+            description: "TBD"
+            time: "9:30 – 11:00"
+        - presentation:
+            title: "Coffee Break"
+            description: ""
+            time: "11:00 – 11:15"
         - name: "Thorsten Strufe"
           photo: "/img/thorsten.jpg"
           presentation:
             title: "Privacy of behavioral and biometric data"
             description: "TBD"
-            time: "11:45 – 12:30"
+            time: "11:15 – 12:30"
+        - presentation:
+            title: "Lunch"
+            description: ""
+            time: "12:30 – 13:30"
         - name: "Natasha Fernandes"
           photo: "/img/natasha.jpg"
           presentation:
             title: "Attack Models for Differential Privacy"
             description: "Differential privacy (DP) is often regarded as a powerful privacy definition due to its strong attacker model and independence from prior knowledge. In this talk I will introduce some techniques for attack modelling and discuss how DP's attacker model sits in the landscape of these attacks. We will model other attackers and discuss how DP defences stack up against these. Finally, we will discuss strengths and weaknesses of the DP attack model, and identify gaps in the literature regarding privacy attacks."
             time: "13:30 – 14:30"
+        - presentation:
+            title: "Coffee Break"
+            description: ""
+            time: "14:30 – 15:00"
+        - presentation:
+            title: "Group Discussion"
+            description: "TBD"
+            time: "15:00 – 16:30"
     - day: "Friday, November 14"
       slots:
         - name: "Daniel Slamanig"
@@ -240,7 +308,31 @@ params:
           presentation:
             title: "Anonymous Credentials: Past, Present and Future"
             description: "Anonymous credentials are an important cryptographic concept, envisioned in the 1980s by Chaum, to enable privacy-friendly authentication. In recent years, they have experienced renewed interest, driven by new applications and increased attention from industry. In this talk, we will review the basic concept, explore different properties and types of such schemes, and examine current constructions of anonymous credentials. We will also take a look into the future — specifically the post-quantum setting — and discuss open research problems."
-            time: "TBD"
+            time: "9:30 – 11:00"
+        - presentation:
+            title: "Coffee Break"
+            description: ""
+            time: "11:00 – 11:15"
+        - presentation:
+            title: "Talk"
+            description: "TBD"
+            time: "11:15 – 12:30"
+        - presentation:
+            title: "Lunch"
+            description: ""
+            time: "12:30 – 13:30"
+        - presentation:
+            title: "Talk"
+            description: "TBD"
+            time: "13:30 – 14:30"
+        - presentation:
+            title: "Coffee Break"
+            description: ""
+            time: "14:30 – 15:00"
+        - presentation:
+            title: "Group Discussion"
+            description: "TBD"
+            time: "15:00 – 16:30"
 
 
 

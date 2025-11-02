@@ -209,24 +209,30 @@ params:
             time: "15:00 – 16:30"
     - day: "Tuesday, November 11"
       slots:
-        - presentation:
-            title: "Tutorial"
+        - name: "Suranga Seneviratne"
+          photo: "/img/suranga.jpg"
+          presentation:
+            title: "AI/ML Privacy & Network Privacy"
             description: "TBD"
             time: "9:30 – 11:00"
         - presentation:
             title: "Coffee Break"
             description: ""
             time: "11:00 – 11:15"
-        - presentation:
-            title: "Talk"
+        - name: "Qiang Tang"
+          photo: "/img/qiang.JPG"
+          presentation:
+            title: "End-to-End Encryption"
             description: "TBD"
             time: "11:15 – 12:30"
         - presentation:
             title: "Lunch"
             description: ""
             time: "12:30 – 13:30"
-        - presentation:
-            title: "Talk"
+        - name: "Nishanth Chandran"
+          photo: "/img/nishanth.jpg"
+          presentation:
+            title: "AI/ML Privacy"
             description: "TBD"
             time: "13:30 – 14:30"
         - presentation:
@@ -235,11 +241,13 @@ params:
             time: "14:30 – 15:00"
         - presentation:
             title: "Group Discussion"
-            description: "TBD"
+            description: "Interactive discussion in topic-specific breakout groups."
             time: "15:00 – 16:30"
     - day: "Wednesday, November 12"
       slots:
-        - presentation:
+        - name: "Ming Ding"
+          photo: "/img/ming.jpg"
+          presentation:
             title: "Tutorial"
             description: "TBD"
             time: "9:30 – 11:00"
@@ -247,8 +255,10 @@ params:
             title: "Coffee Break"
             description: ""
             time: "11:00 – 11:15"
-        - presentation:
-            title: "Talk"
+        - name: "Vanessa Teague"
+          photo: "/img/vanessa-teague.png"
+          presentation:
+            title: "E-Voting"
             description: "TBD"
             time: "11:15 – 12:30"
         - presentation:
@@ -256,21 +266,19 @@ params:
             description: ""
             time: "12:30 – 1:30 pm"
         - presentation:
-            title: "Talk"
-            description: "TBD"
+            title: "Panel: Bringing Privacy Research to Reality"
+            description: " Marcel Keller (Data61), Vanessa Teague and others to be confirmed"
             time: "13:30 – 14:30"
         - presentation:
-            title: "Coffee Break"
-            description: ""
-            time: "14:30 – 15:00"
-        - presentation:
-            title: "Group Discussion"
-            description: "TBD"
-            time: "15:00 – 16:30"
+            title: "Social Event "
+            description: "Bondi to Coogee Coastal Walk and Dinner"
+            time: "14:30 – 19:00"
     - day: "Thursday, November 13"
       slots:
-        - presentation:
-            title: "Tutorial"
+        - name: "Sanchari Das"
+          photo: "/img/sanchari.jpeg"
+          presentation:
+            title: "Usable Privacy"
             description: "TBD"
             time: "9:30 – 11:00"
         - presentation:
@@ -313,8 +321,10 @@ params:
             title: "Coffee Break"
             description: ""
             time: "11:00 – 11:15"
-        - presentation:
-            title: "Talk"
+        - name: "Sanchari Das"
+          photo: "/img/sanchari.jpeg"
+          presentation:
+            title: "Usable Privacy"
             description: "TBD"
             time: "11:15 – 12:30"
         - presentation:
@@ -322,7 +332,7 @@ params:
             description: ""
             time: "12:30 – 13:30"
         - presentation:
-            title: "Talk"
+            title: "Presentations of Group Discussion Outcomes"
             description: "TBD"
             time: "13:30 – 14:30"
         - presentation:

@@ -472,9 +472,10 @@ nav {
 }
 .schedule-tbl .schedule-time {
   text-align: center;
+  width: 100px;
 }
 .schedule-slot {
-  width: 250px;
+  width: 200px;
   font-size: 16px;
 }
 .speakers-company {
@@ -571,14 +572,18 @@ nav {
   .schedule-tbl .speaker-photo {
     width: 40px;
     height: 40px;
-    margin-right: 5px;
+    float: none;
+    display: block;
+    text-align: center;
+    margin: 0 auto 10px auto;
   }
   .schedule-tbl .schedule-slot {
-    width: 120px;
+    width: 100px;
   }
   .schedule-tbl td.schedule-slot {
     font-size: 14px;
     line-height: 1.2em;
+    text-align: center;
   }
   .schedule-tbl .schedule-time {
     width: 60px;
@@ -683,7 +688,7 @@ ol.unmarked {
     padding: 0;
   }
   .speakers-bio {
-    display: none;
+    /* display: none; */
   }
 }
 @media only screen and (max-width: 321px) {

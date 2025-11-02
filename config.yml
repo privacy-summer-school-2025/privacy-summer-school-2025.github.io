@@ -174,15 +174,23 @@ params:
         - name: "Thorsten Strufe"
           photo: "/img/thorsten.jpg"
           presentation:
-            title: "Introduction to Privacy"
+            title: "Privacy Foundations"
             description: "TBD"
-            time: "09:45 AM - 11:00 AM"
+            time: "09:45 – 11:00"
+        - presentation:
+            title: "Coffee Break"
+            description: ""
+            time: "11:00 – 11:15"
         - name: "Daniel Slamanig"
           photo: "/img/daniel-slamanig.jpg"
           presentation:
             title: "Cryptography for Privacy"
             description: "Cryptography offers important theoretical foundations for achieving privacy in the digital world. This talk provides an overview of the main cryptographic tools that enable computation and communication without revealing sensitive data, including secure multi-party computation, homomorphic encryption, and zero-knowledge proofs. We will see how these primitives allow data and computations to be verified and shared securely while preserving both confidentiality and authenticity, illustrated through examples. Finally, the talk highlights recent advances and open challenges in making these privacy-preserving techniques practical and scalable."
-            time: "TBD"
+            time: "11:15 – 12:30"
+        - presentation:
+            title: "Lunch Break"
+            description: ""
+            time: "12:30 – 13:30"
         - name: "Natasha Fernandes"
           photo: "/img/natasha.jpg"
           presentation:
@@ -190,7 +198,15 @@ params:
             description: "Differential privacy (DP) offers a mathematically rigorous framework that is the gold standard for privacy in the current literature - but what is it and how does is work? 
             <p></p>
             This talk introduces the core principles of differential privacy, including its mathematical properties and some key DP mechanisms. We will look at some common applications of differential privacy and examples of privacy analyses used to prove DP properties. Finally, we will discuss the privacy-utility trade-off and touch on some open questions in the community."
-            time: "01:30 PM - 02:30 PM"
+            time: "13:30 – 14:30"
+        - presentation:
+            title: "Coffee Break"
+            description: ""
+            time: "14:30 – 15:00"
+        - presentation:
+            title: "Group Discussion"
+            description: "Interactive discussion in topic-specific breakout groups."
+            time: "15:00 – 16:30"
     - day: "Tuesday, November 11"
       slots:
         - presentation:
@@ -210,13 +226,13 @@ params:
           presentation:
             title: "Privacy of behavioral and biometric data"
             description: "TBD"
-            time: "11:45 AM - 12:30 PM"
+            time: "11:45 – 12:30"
         - name: "Natasha Fernandes"
           photo: "/img/natasha.jpg"
           presentation:
             title: "Attack Models for Differential Privacy"
             description: "Differential privacy (DP) is often regarded as a powerful privacy definition due to its strong attacker model and independence from prior knowledge. In this talk I will introduce some techniques for attack modelling and discuss how DP's attacker model sits in the landscape of these attacks. We will model other attackers and discuss how DP defences stack up against these. Finally, we will discuss strengths and weaknesses of the DP attack model, and identify gaps in the literature regarding privacy attacks."
-            time: "01:30 PM - 02:30 PM"
+            time: "13:30 – 14:30"
     - day: "Friday, November 14"
       slots:
         - name: "Daniel Slamanig"

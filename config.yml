@@ -207,6 +207,7 @@ params:
             title: "Group Discussion"
             description: "Interactive discussion in topic-specific breakout groups."
             time: "15:00 – 16:30"
+          photo: "/img/privacy_koala.png"
     - day: "Tuesday, November 11"
       slots:
         - name: "Suranga Seneviratne"
@@ -243,6 +244,7 @@ params:
             title: "Group Discussion"
             description: "Interactive discussion in topic-specific breakout groups."
             time: "15:00 – 16:30"
+          photo: "/img/privacy_koala.png"
     - day: "Wednesday, November 12"
       slots:
         - name: "Ming Ding"
@@ -269,10 +271,15 @@ params:
             title: "Panel: Bringing Privacy Research to Reality"
             description: " Marcel Keller (Data61), Vanessa Teague and others to be confirmed"
             time: "13:30 – 14:30"
+          photo: "/img/idea_koala.png"
         - presentation:
             title: "Social Event "
-            description: "Bondi to Coogee Coastal Walk and Dinner."
+            description: "<b>Bondi to Coogee Coastal Walk and Dinner.</b>
+            Pack you hiking shoes and sunscreen! We will walk from Bondi Beach to Coogee Beach along the stunning coastal path, exploring one of Sydney's most iconic walkes.
+            Afterwards, we will gather for dinner.
+            "
             time: "14:30 – 19:00"
+          photo: "/img/beach_koala.png"
     - day: "Thursday, November 13"
       slots:
         - name: "Sanchari Das"
@@ -309,6 +316,7 @@ params:
             title: "Group Discussion"
             description: "Interactive discussion in topic-specific breakout groups."
             time: "15:00 – 16:30"
+          photo: "/img/privacy_koala.png"
     - day: "Friday, November 14"
       slots:
         - name: "Daniel Slamanig"
@@ -335,6 +343,7 @@ params:
             title: "Presentations of Group Discussion Outcomes"
             description: "Each group presents key insights from their discussions."
             time: "13:30 – 14:30"
+          photo: "/img/speach_koala.png"
         - presentation:
             title: "Coffee Break"
             description: ""
@@ -343,6 +352,7 @@ params:
             title: "Event Closing"
             description: ""
             time: "15:00 – 16:30"
+          photo: "/img/crying_koala.png"
 
 
 

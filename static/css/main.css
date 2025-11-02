@@ -455,7 +455,7 @@ nav {
   padding: 20px 30px;
   font-size: 1.4em;
   line-height: 1.4em;
-  text-align: left;
+  text-align: center;
 }
 .schedule-tbl th {
   padding: 5px 30px;
@@ -467,8 +467,10 @@ nav {
   position: relative;
   width: 40px;
   height: 40px;
-  float: left;
-  margin-right: 20px;
+  float: none;
+  display: block;
+  text-align: center;
+  margin: 0 auto 10px auto;
 }
 .schedule-tbl .schedule-time {
   text-align: center;
@@ -477,6 +479,7 @@ nav {
 .schedule-slot {
   width: 200px;
   font-size: 16px;
+  text-align: center;
 }
 .speakers-company {
   display: block;
@@ -687,18 +690,18 @@ ol.unmarked {
     font-size: 16px;
     padding: 0;
   }
-  .speakers-bio {
-    /* display: none; */
-  }
+  /* .speakers-bio {
+    display: none;
+  } */
 }
 @media only screen and (max-width: 321px) {
   .logo-name {
     font-size: 4em;
     margin-bottom: .4em;
   }
-  .schedule-tbl .schedule-description {
+  /* .schedule-tbl .schedule-description {
     display: none;
-  }
+  } */
   .schedule-tbl .schedule-slot {
     width: auto;
   }

@@ -171,6 +171,18 @@ params:
   Schedule:
     - day: "Monday, November 10"
       slots:
+        - name: "Thorsten Strufe"
+          photo: "/img/thorsten.jpg"
+          presentation:
+            title: "Introduction to Privacy"
+            description: "TBD"
+            time: "09:45 AM - 11:00 AM"
+        - name: "Daniel Slamanig"
+          photo: "/img/daniel-slamanig.jpg"
+          presentation:
+            title: "Cryptography for Privacy"
+            description: "Cryptography offers important theoretical foundations for achieving privacy in the digital world. This talk provides an overview of the main cryptographic tools that enable computation and communication without revealing sensitive data, including secure multi-party computation, homomorphic encryption, and zero-knowledge proofs. We will see how these primitives allow data and computations to be verified and shared securely while preserving both confidentiality and authenticity, illustrated through examples. Finally, the talk highlights recent advances and open challenges in making these privacy-preserving techniques practical and scalable."
+            time: "TBD"
         - name: "Natasha Fernandes"
           photo: "/img/natasha.jpg"
           presentation:
@@ -193,6 +205,12 @@ params:
             time: "TBD"
     - day: "Thursday, November 13"
       slots:
+        - name: "Thorsten Strufe"
+          photo: "/img/thorsten.jpg"
+          presentation:
+            title: "Privacy of behavioral and biometric data"
+            description: "TBD"
+            time: "11:45 AM - 12:30 PM"
         - name: "Natasha Fernandes"
           photo: "/img/natasha.jpg"
           presentation:
@@ -201,9 +219,11 @@ params:
             time: "01:30 PM - 02:30 PM"
     - day: "Friday, November 14"
       slots:
-        - presentation:
-            title: "TBD"
-            description: "TBD"
+        - name: "Daniel Slamanig"
+          photo: "/img/daniel-slamanig.jpg"
+          presentation:
+            title: "Anonymous Credentials: Past, Present and Future"
+            description: "Anonymous credentials are an important cryptographic concept, envisioned in the 1980s by Chaum, to enable privacy-friendly authentication. In recent years, they have experienced renewed interest, driven by new applications and increased attention from industry. In this talk, we will review the basic concept, explore different properties and types of such schemes, and examine current constructions of anonymous credentials. We will also take a look into the future — specifically the post-quantum setting — and discuss open research problems."
             time: "TBD"
 
 

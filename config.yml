@@ -298,10 +298,7 @@ params:
           photo: "/img/idea_koala.png"
         - presentation:
             title: "Social Event "
-            description: "<b>Bondi to Coogee Coastal Walk and Dinner.</b>
-            Pack you hiking shoes and sunscreen! We will walk from Bondi Beach to Coogee Beach along the stunning coastal path, exploring one of Sydney's most iconic walks.
-            Afterwards, we will gather for dinner.
-            "
+            description: "<b>Free afternoon.</b>"
             time: "14:30 – 19:00"
           photo: "/img/beach_koala.png"
     - day: "Thursday, November 13"

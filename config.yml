@@ -171,6 +171,10 @@ params:
   Schedule:
     - day: "Monday, November 10"
       slots:
+        - presentation:
+            title:  "Registration & Coffee"
+            description: ""
+            time: "8:45 – 9:30"
         - name: "Thorsten Strufe"
           photo: "/img/thorsten.jpg"
           presentation:
@@ -275,7 +279,7 @@ params:
         - presentation:
             title: "Social Event "
             description: "<b>Bondi to Coogee Coastal Walk and Dinner.</b>
-            Pack you hiking shoes and sunscreen! We will walk from Bondi Beach to Coogee Beach along the stunning coastal path, exploring one of Sydney's most iconic walkes.
+            Pack you hiking shoes and sunscreen! We will walk from Bondi Beach to Coogee Beach along the stunning coastal path, exploring one of Sydney's most iconic walks.
             Afterwards, we will gather for dinner.
             "
             time: "14:30 – 19:00"

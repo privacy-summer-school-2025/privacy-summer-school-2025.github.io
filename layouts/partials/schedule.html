@@ -35,7 +35,17 @@
               </td>
               <td class="schedule-description">
                 {{ with .presentation.location }}
-                  <span class="schedule-location"><b>Location:</b> {{ . | safeHTML}}</span>
+                  {{ $locations := . }}
+                  <span class="schedule-location"><b>Location:</b> 
+                    {{ range $index, $locId := $locations }}
+                      {{ if $index }}, {{ end }}
+                      {{ range $room := $.Rooms }}
+                        {{ if eq $room.id $locId }}
+                          <a href="{{ $room.url }}" target="_blank">{{ $room.name }}</a>
+                        {{ end }}
+                      {{ end }}
+                    {{ end }}
+                  </span>
                 {{ end }}
                 {{with .presentation.description}}
                 <p> </p>

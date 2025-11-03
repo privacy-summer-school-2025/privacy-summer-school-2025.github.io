@@ -35,7 +35,7 @@
               </td>
               <td class="schedule-description">
                 {{ with .presentation.location }}
-                  <span class="schedule-location"><b>Location:</b> {{ . }}</span>
+                  <span class="schedule-location"><b>Location:</b> {{ . | safeHTML}}</span>
                 {{ end }}
                 {{with .presentation.description}}
                 <p> </p>

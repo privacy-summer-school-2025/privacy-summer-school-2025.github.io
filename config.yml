@@ -313,7 +313,7 @@ params:
           photo: "/img/idea_koala.png"
         - presentation:
             title: "Social Event "
-            description: "<b>Free afternoon.</b>"
+            description: "Social event, will be communicated to the participants soon."
             time: "14:30 – 19:00"
           photo: "/img/beach_koala.png"
     - day: "Thursday, November 13"

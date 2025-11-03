@@ -252,8 +252,10 @@ params:
         - name: "Qiang Tang"
           photo: "/img/qiang.JPG"
           presentation:
-            title: "End-to-End Encryption"
-            description: "TBD"
+            title: "Towards End to End Encrypted Online Collaborations"
+            description: "Despite the pervasiveness of cloud platforms that facilitate outsourced storage and online collaborations, the basic requirement of end-to-end security is not yet available. As a consequence, we've witnessed many massive scales data breaches, frequently. This is in sharp contrast with communication, that there are long sequences of research and practical systems for end-to-end encrypted messaging available. 
+            <br />
+            In this talk, I will overview the key challenges causing this mismatch, and our recent efforts of providing end-to-end security for cloud storage and Git services with rigorous guarantees, while preserving full compatibility with existing infrastructure, and incurring only minimal overhead."
             time: "11:15 – 12:30"
             location: ["B01"]
         - presentation:

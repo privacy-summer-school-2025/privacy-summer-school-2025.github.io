@@ -597,6 +597,15 @@ nav {
     font-size: 12px;
     text-align: left;
   }
+
+.schedule-location {
+    font-size: 12px;
+  }
+
+  .schedule-description-text {
+    margin-top: 6px;
+  }
+
   /* partners */
   .sponsor-item,
   .partner-item {

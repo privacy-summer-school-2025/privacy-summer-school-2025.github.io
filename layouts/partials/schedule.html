@@ -33,7 +33,17 @@
                 <!-- <span class="speakers-company">{{ .company }}</span> -->
                  <span class="speakers-company"><a href="#{{ .name | urlize }}">{{ .name }}</a></span>
               </td>
-              <td class="schedule-description">{{ .presentation.description | safeHTML}}</td>
+              <td class="schedule-description">
+                {{ with .presentation.location }}
+                  <span class="schedule-location"><b>Location:</b> {{ . }}</span>
+                {{ end }}
+                {{with .presentation.description}}
+                <p> </p>
+                <span class="schedule-description-text">
+                {{ . | safeHTML}}
+                </span>
+                {{ end }}
+              </td>
             </tr>
           {{ else }}
             <tr class="schedule-other">

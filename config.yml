@@ -175,31 +175,31 @@ params:
             title:  "Registration & Coffee"
             description: ""
             time: "8:45 – 9:30"
-            location: '<a href="https://link.mazemap.com/4W9D0yAJ" target="_blank"> CSE Seminar Room (113)</a>'
+            location: '<a href="https://link.mazemap.com/T7qA2imA" target="_blank"> CSE Seminar Room (113)</a>'
         - name: "Thorsten Strufe"
           photo: "/img/thorsten.jpg"
           presentation:
             title: "Privacy Foundations"
             description: "TBD"
             time: "9:30 – 11:00"
-            location: '<a href="https://link.mazemap.com/4W9D0yAJ" target="_blank"> CSE Seminar Room (113)</a>'
+            location: '<a href="https://link.mazemap.com/T7qA2imA" target="_blank"> CSE Seminar Room (113)</a>'
         - presentation:
             title: "Coffee Break"
             description: ""
             time: "11:00 – 11:15"
-            location: '<a href="https://link.mazemap.com/4W9D0yAJ" target="_blank"> CSE Seminar Room (113)</a>'
+            location: '<a href="https://link.mazemap.com/T7qA2imA" target="_blank"> CSE Seminar Room (113)</a>'
         - name: "Daniel Slamanig"
           photo: "/img/daniel-slamanig.jpg"
           presentation:
             title: "Cryptography for Privacy"
             description: "Cryptography offers important theoretical foundations for achieving privacy in the digital world. This talk provides an overview of the main cryptographic tools that enable computation and communication without revealing sensitive data, including secure multi-party computation, homomorphic encryption, and zero-knowledge proofs. We will see how these primitives allow data and computations to be verified and shared securely while preserving both confidentiality and authenticity, illustrated through examples. Finally, the talk highlights recent advances and open challenges in making these privacy-preserving techniques practical and scalable."
             time: "11:15 – 12:30"
-            location: '<a href="https://link.mazemap.com/4W9D0yAJ" target="_blank"> CSE Seminar Room (113)</a>'
+            location: '<a href="https://link.mazemap.com/T7qA2imA" target="_blank"> CSE Seminar Room (113)</a>'
         - presentation:
             title: "Lunch"
             description: ""
             time: "12:30 – 13:30"
-            location: '<a href="https://link.mazemap.com/4W9D0yAJ" target="_blank"> CSE Seminar Room (113)</a>'
+            location: '<a href="https://link.mazemap.com/T7qA2imA" target="_blank"> CSE Seminar Room (113)</a>'
         - name: "Natasha Fernandes"
           photo: "/img/natasha.jpg"
           presentation:
@@ -208,17 +208,17 @@ params:
             <p></p>
             This talk introduces the core principles of differential privacy, including its mathematical properties and some key DP mechanisms. We will look at some common applications of differential privacy and examples of privacy analyses used to prove DP properties. Finally, we will discuss the privacy-utility trade-off and touch on some open questions in the community."
             time: "13:30 – 14:30"
-            location: '<a href="https://link.mazemap.com/4W9D0yAJ" target="_blank"> CSE Seminar Room (113)</a>'
+            location: '<a href="https://link.mazemap.com/T7qA2imA" target="_blank"> CSE Seminar Room (113)</a>'
         - presentation:
             title: "Coffee Break"
             description: ""
             time: "14:30 – 15:00"
-            location: '<a href="https://link.mazemap.com/4W9D0yAJ" target="_blank"> CSE Seminar Room (113)</a>'
+            location: '<a href="https://link.mazemap.com/T7qA2imA" target="_blank"> CSE Seminar Room (113)</a>'
         - presentation:
             title: "Group Discussion"
             description: "Interactive discussion in topic-specific breakout groups."
             time: "15:00 – 16:30"
-            location: '<a href="https://link.mazemap.com/4W9D0yAJ" target="_blank"> CSE Seminar Room (113)</a>,<a href="https://link.mazemap.com/66pr2aKt" target="_blank"> Room 401</a>, and <a href="https://link.mazemap.com/0oNApTv5" target="_blank"> Room 501</a>'
+            location: '<a href="https://link.mazemap.com/T7qA2imA" target="_blank"> CSE Seminar Room (113)</a>,<a href="https://link.mazemap.com/0ihGByFg" target="_blank"> Room 401</a>, and <a href="https://link.mazemap.com/OmJd0pRK" target="_blank"> Room 501</a>'
           photo: "/img/privacy_koala.png"
     - day: "Tuesday, November 11"
       slots:
@@ -262,7 +262,7 @@ params:
             title: "Group Discussion"
             description: "Interactive discussion in topic-specific breakout groups."
             time: "15:00 – 16:30"
-            location: '<a href="https://link.mazemap.com/2Mf8ppTv" target="_blank"> CSE Basement (B01)</a> and <a href="https://link.mazemap.com/4W9D0yAJ" target="_blank"> CSE Seminar Room (113)</a>'
+            location: '<a href="https://link.mazemap.com/2Mf8ppTv" target="_blank"> CSE Basement (B01)</a> and <a href="https://link.mazemap.com/T7qA2imA" target="_blank"> CSE Seminar Room (113)</a>'
           photo: "/img/privacy_koala.png"
     - day: "Wednesday, November 12"
       slots:
@@ -343,7 +343,7 @@ params:
             title: "Group Discussion"
             description: "Interactive discussion in topic-specific breakout groups."
             time: "15:00 – 16:30"
-            location: '<a href="https://link.mazemap.com/2Mf8ppTv" target="_blank"> CSE Basement (B01)</a> and <a href="https://link.mazemap.com/4W9D0yAJ" target="_blank"> CSE Seminar Room (113)</a>'
+            location: '<a href="https://link.mazemap.com/2Mf8ppTv" target="_blank"> CSE Basement (B01)</a> and <a href="https://link.mazemap.com/T7qA2imA" target="_blank"> CSE Seminar Room (113)</a>'
           photo: "/img/privacy_koala.png"
     - day: "Friday, November 14"
       slots:

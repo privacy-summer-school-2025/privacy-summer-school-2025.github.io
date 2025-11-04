@@ -286,8 +286,8 @@ params:
         - name: "Ming Ding"
           photo: "/img/ming.jpg"
           presentation:
-            title: "Tutorial"
-            description: "TBD"
+            title: " Building Trust in AI: Responsible Data Use, Risk, and Regulation"
+            description: "This talk explores what it means to use data responsibly in the age of AI. We'll unpack common myths about AI and data usage, examine emerging risks in AI systems, and discuss how regulatory and technical approaches can work together to build trust. Drawing on recent national initiatives and research at CSIRO's Data61, the session highlights practical strategies for protecting sensitive data while supporting innovation and public confidence in AI."
             time: "9:30 – 11:00"
             location: ["B01"]
         - presentation:

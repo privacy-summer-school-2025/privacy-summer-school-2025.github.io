@@ -266,8 +266,8 @@ params:
         - name: "Nishanth Chandran"
           photo: "/img/nishanth.jpg"
           presentation:
-            title: "AI/ML Privacy"
-            description: "TBD"
+            title: "Building Trustworthy Machine Learning Pipelines: Threats and Mitigations"
+            description: "Machine learning systems increasingly handle sensitive data and operate in complex environments. This talk provides an overview of the core security and privacy challenges in modern ML, including threats to data and models, and discusses foundational approaches to mitigating these risks."
             time: "13:30 – 14:30"
             location: ["B01"]
         - presentation:

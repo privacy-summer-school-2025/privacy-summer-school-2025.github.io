@@ -323,8 +323,9 @@ params:
         - name: "Sanchari Das"
           photo: "/img/sanchari.jpeg"
           presentation:
-            title: "Usable Privacy"
-            description: "TBD"
+            title: "Privacy in Context: Models, Measures, and Design"
+            description: |
+              This talk presents privacy as a contextual and human-centered concept, exploring how people understand and manage it in digital environments. It introduces the APCO model linking antecedents, privacy concerns, and outcomes, and discusses frameworks such as CFIP and IUIPC for measuring privacy attitudes and behavior. The session explains factors influencing privacy decisions including awareness, culture, demographics, and personality, and examines the privacy paradox, where concerns do not always reduce disclosure. It also outlines the role of trust, risk, and perceived benefit in privacy calculus and emphasizes the need for privacy by design approaches that embed fairness, transparency, and user control in technology.
             time: "9:30 – 11:00"
             location: ["B01"]
         - presentation:
@@ -379,8 +380,9 @@ params:
         - name: "Sanchari Das"
           photo: "/img/sanchari.jpeg"
           presentation:
-            title: "Usable Privacy"
-            description: "TBD"
+            title: "Privacy Boundaries"
+            description: |
+              This talk explores how individuals manage privacy across social media, data-driven services, and digital ecosystems through adaptive boundary regulation. It introduces a five-part model addressing relationship, network, territorial, disclosure, and interactional boundaries, and explains user strategies such as filtering, blocking, withdrawal, and compromise. The session highlights challenges including the privacy paradox, imagined audiences, and context collapse, showing how these shape disclosure and control online. It also discusses privacy in healthcare and genetic data to illustrate stakeholder responsibilities and the need for multi-layered protection. The talk concludes with design principles for usable, trustworthy systems that uphold user agency, consent, and equitable data practices.
             time: "11:15 – 12:30"
             location: ["B01"]
         - presentation:

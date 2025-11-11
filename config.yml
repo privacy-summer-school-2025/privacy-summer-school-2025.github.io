@@ -309,7 +309,9 @@ params:
             location: ["B01"]
         - presentation:
             title: "Panel: Bringing Privacy Research to Reality"
-            description: "To be confirmed."
+            description: |
+              <b>Moderator:</b> Salil S. Kanhere <br />
+              <b>Panel:</b> Ming Ding, Daniel Slamanig, Thorsten Strufe, and Vanessa Teague
             time: "13:30 – 14:30"
             location: ["B01"]
           photo: "/img/idea_koala.png"

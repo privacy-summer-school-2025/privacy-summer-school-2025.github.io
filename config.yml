@@ -298,7 +298,7 @@ params:
         - name: "Vanessa Teague"
           photo: "/img/vanessa-teague.png"
           presentation:
-            title: "E-Voting"
+            title: "Privacy for electronic elections"
             description: "TBD"
             time: "11:15 – 12:30"
             location: ["B01"]
